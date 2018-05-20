@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2017 The Android Open Source Project
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Navigation codelab</string>
+    <string name="home">Home</string>
+    <string name="deeplink">Deep link</string>
+    <string name="settings">Settings</string>
+    <string name="hello_settings_fragment">Settings fragment</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="shopping_fragment_text">Shopping fragment</string>
+    <string name="hint_type_your_deep_link_args">Type your deep link args</string>
+    <string name="hint_send_deep_link_notification">Send deep link notification</string>
+    <string name="step_one">Step One</string>
+    <string name="navigate_next_step">Navigate next step</string>
+    <string name="step_two">Step Two</string>
+    <string name="finish_flow">Finish Flow</string>
+    <string name="navigate_to_destination">Navigate to destination</string>
+    <string name="navigate_with_action">Navigate with action</string>
+</resources>
